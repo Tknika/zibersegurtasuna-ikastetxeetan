@@ -1,0 +1,7 @@
+---
+sidebar_position: 7
+---
+
+# 7-Mehatxuen monitorizazio eta detekzioa
+
+Mehatxuak eta aktibitate susmagarriak detektatu eta haiei dagokion moduan erantzuteko, ezinbestekoa da azpiegitura denbora errealean ikuskatzeko aukera izatea.

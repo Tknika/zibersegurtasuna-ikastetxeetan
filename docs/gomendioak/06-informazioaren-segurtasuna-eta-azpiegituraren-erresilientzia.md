@@ -1,0 +1,7 @@
+---
+sidebar_position: 6
+---
+
+# 6-Informazioaren segurtasuna eta azpiegituraren erresilientzia
+
+Informazioaren konfidentzialtasuna, integritatea eta eskuragarritasuna bermatu behar dugu.
