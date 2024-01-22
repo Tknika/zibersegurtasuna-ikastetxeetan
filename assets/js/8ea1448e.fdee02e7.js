@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[973],{2607:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/zibersegurtasuna-ikastetxeetan/blog/tags/hola","allTagsPath":"/zibersegurtasuna-ikastetxeetan/blog/tags","count":1,"unlisted":false}')}}]);

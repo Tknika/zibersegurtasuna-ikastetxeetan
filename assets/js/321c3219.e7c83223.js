@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4242],{4260:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/zibersegurtasuna-ikastetxeetan/blog/tags/docusaurus","allTagsPath":"/zibersegurtasuna-ikastetxeetan/blog/tags","count":4,"unlisted":false}')}}]);
