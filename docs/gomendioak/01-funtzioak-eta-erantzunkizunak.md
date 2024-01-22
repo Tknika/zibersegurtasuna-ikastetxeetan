@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Ikastetxeak antolakuntza mailan erabaki batzuk hartu beharko ditu; besteak beste ezinbestekoa da arduradun egokiak aukeratzea eta prozesu batzuk martxan ipintzea.
 
+> [!GOGORATU]
+> Ikastetxeak zibersegurtasun mehatxuei aurre egiteaz gain, betebehar legal batzuk ere baditu. Zuzendaritzatik erakunde mailan honi dagokion garrantzia ematea dagokio.
 ## Gomendioak
 - Ikastetxeko plan estrategikoetan zibersegurtasunarekin lotutako eginbeharrak, arduradunak eta errespontsabilitateak ondo identifikatu
 - Zibersegurtsuna erakunde mailan lehentasun gisa definitu eta hala komunikatu ikastetxe-barnean, eta departamentu ezberdinetan ulertarazi. Besteak beste, azken mehatxuak ezagutzeko zaintza aktiboa egin (ikastaro eta kongresuetara joan etab).
