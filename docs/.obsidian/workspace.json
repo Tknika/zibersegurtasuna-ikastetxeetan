@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro.md",
+                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intro.md",
+                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intro.md"
+                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md"
               }
             }
           }
@@ -148,20 +148,20 @@
   },
   "active": "7c596cb8694ad334",
   "lastOpenFiles": [
-    "baliabideak/txantiloiak.md",
+    "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
+    "gomendioak/02-aktiboen-kudeaketa.md",
+    "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
     "intro.md",
+    "baliabideak/txantiloiak.md",
     "baliabideak/_category_.json",
     "praktika-onak/phishing-simulazioa.md",
     "baliabideak",
     "praktika-onak/saioak-isteko-kanpaina.md",
-    "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
     "gomendioak/09-Berreskuratzea.md",
     "gomendioak/08-gertaeren-kudeaketa.md",
     "gomendioak/07-mehatxuen-monitorizazio-eta-detekzioa.md",
     "gomendioak/06-informazioaren-segurtasuna-eta-azpiegituraren-erresilientzia.md",
     "gomendioak/05-atzipen-kontrola-eta-identitate-kudeaketa.md",
-    "gomendioak/04-sentsibilizazioa-eta-prestakuntza.md",
-    "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
-    "gomendioak/02-aktiboen-kudeaketa.md"
+    "gomendioak/04-sentsibilizazioa-eta-prestakuntza.md"
   ]
 }
