@@ -1,4 +1,4 @@
-# Erantzunkizunen eslepenen matrizea (RACI)
+# Erantzunkizunen esleipenen matrizea (RACI)
 Jarraian aurkezten den matrizea adibide soil bat da, ikastetxe bakoitzak bere egoerara moldatu beharko du.
 
 RACI **erantzunkizunen esleipenen matrizea** proiektu kudeaketetan erabiltzen da, aktibitateak giza baliabideekin erlazionatzeko. Modu honetara, ataza bakoitza pertsona edo lan-talde bati esleituta dagoela bermatuko dugu.
