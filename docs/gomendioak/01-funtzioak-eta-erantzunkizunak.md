@@ -30,3 +30,6 @@ Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ik
 
 ## Baliabideak
 - [RACI Erantzunkizunen matrizea](../../baliabideak/RACI-matrizea)
+
+## Erreferentziak
+[- Guía para centros educativos (AEPD)](https://www.aepd.es/documento/guia-centros-educativos.pdf)
