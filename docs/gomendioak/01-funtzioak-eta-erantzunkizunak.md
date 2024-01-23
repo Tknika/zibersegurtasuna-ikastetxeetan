@@ -2,18 +2,28 @@
 sidebar_position: 1
 ---
 
-# 1-Funtzioak eta erantzunkizunak
+# 1-Gobernantza, funtzioak eta erantzunkizunak
 
 Ikastetxeak antolakuntza mailan erabaki batzuk hartu beharko ditu; besteak beste ezinbestekoa da arduradun egokiak aukeratzea eta prozesu batzuk martxan ipintzea.
 
-:::warning
-Ikastetxeak zibersegurtasun mehatxuei aurre egiteaz gain, **betebehar legal batzuk** ere baditu. Erakunde mailan ikastetxeko zuzendaritza da honen erantzule.
+:::warning[Gogoratu]
+Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ikastetxeak **betebehar legal batzuk** ere baditu. 
 :::
+
+## Zergaitik da garrantzitsua?
+- Antolaketa **estruktura argi bat** izatea ezinbestekoa da, pertsona bakoitzak zer egin behar duen jakiteko eta horretarako gaitasunak lantzeko.
+- Honek, era berean, bermatuko digu **hutsunerik egon ez dadila** segurtasun-estalduran.
+- Erakundean ezarriko diren politika eta prozesuak, etengabeko hobekuntzaren ikuspegiarekin, lagunduko digute segurtasun **gertakizunei** modu eraginkorrean **erantzuten**
+
+## Zein motako atazak dira?
+- Arlo honetan landu beharreko atazak **antolaketa** mailakoak dira batez ere
+
 ## Gomendioak
-- Ikastetxeko plan estrategikoetan zibersegurtasunarekin lotutako **eginbeharrak, arduradunak eta errespontsabilitateak** ondo identifikatu
-- Zibersegurtsuna erakunde mailan lehentasun gisa definitu eta hala komunikatu ikastetxe-barnean, eta departamentu ezberdinetan ulertarazi. Besteak beste, azken mehatxuak ezagutzeko zaintza aktiboa egin (ikastaro eta kongresuetara joan etab).
-- Hirugarrengo hornitzaileekin datu trukaketak badira, behar bezala **formalizatu akordioak** eta baldintzak
-- Zibersegurtasunarekin erlazionatutako arau eta **betebehar legalak** betetzeko akzioak planteatu
-- Erakundearentzako kritikoak diren zerbitzuak identifikatzen dira
-- Ikasle eta irakasleen datu pribatuak kudeatzen diren prozesuetan, pribazitate eta segurtasun betebehar batzuk ezarri
-- **Arriskuen kudeaketa** egiten da, beti ere etengabeko hobekuntza ikuspegiarekin
+1. Ikastetxeko plan estrategikoetan zibersegurtasunarekin lotutako **eginbeharrak, arduradunak eta errespontsabilitateak** ondo identifikatu
+2. Zibersegurtsuna erakunde mailan lehentasun gisa definitu eta hala komunikatu ikastetxe-barnean, eta departamentu ezberdinetan ondo ulertarazi.
+3. Azken mehatxuak ezagutzeko zaintza aktiboa egin (ikastaro eta kongresuetara joanez adibidez).
+4. Hirugarrengo hornitzaileekin datu trukaketak badira, behar bezala **formalizatu akordioak** eta baldintzak
+5. Zibersegurtasunarekin erlazionatutako arau eta **betebehar legalak** betetzeko akzioak planteatu
+6. Ikasle eta irakasleen datu pribatuak kudeatzen diren prozesuetan, pribazitate eta segurtasun betebehar batzuk ezarri
+7. Erakundearentzako kritikoak diren zerbitzuak identifikatu
+8. **Arriskuen kudeaketa** egiten da, beti ere etengabeko hobekuntza ikuspegiarekin
