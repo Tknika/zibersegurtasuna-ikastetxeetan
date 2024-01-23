@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+                "file": "baliabideak/raci-matrizea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+                "file": "baliabideak/raci-matrizea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+                "file": "baliabideak/raci-matrizea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md"
+                "file": "baliabideak/raci-matrizea.md"
               }
             }
           }
@@ -146,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c596cb8694ad334",
+  "active": "99f1ded5d545eac6",
   "lastOpenFiles": [
+    "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+    "baliabideak/raci-matrizea.md",
+    "baliabideak/txantiloiak.md",
     "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
     "gomendioak/02-aktiboen-kudeaketa.md",
-    "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
     "intro.md",
-    "baliabideak/txantiloiak.md",
     "baliabideak/_category_.json",
     "praktika-onak/phishing-simulazioa.md",
     "baliabideak",

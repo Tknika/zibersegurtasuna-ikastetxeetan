@@ -19,7 +19,7 @@ Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ik
 - Arlo honetan landu beharreko atazak **antolaketa** mailakoak dira batez ere
 
 ## Gomendioak
-1. Ikastetxeko plan estrategikoetan zibersegurtasunarekin lotutako **eginbeharrak, arduradunak eta errespontsabilitateak** ondo identifikatu
+1. Ikastetxeko plan estrategikoetan zibersegurtasunarekin lotutako **eginbeharrak, arduradunak eta erantzunkizunak** ondo identifikatu.
 2. Zibersegurtsuna erakunde mailan lehentasun gisa definitu eta hala komunikatu ikastetxe-barnean, eta departamentu ezberdinetan ondo ulertarazi.
 3. Azken mehatxuak ezagutzeko zaintza aktiboa egin (ikastaro eta kongresuetara joanez adibidez).
 4. Hirugarrengo hornitzaileekin datu trukaketak badira, behar bezala **formalizatu akordioak** eta baldintzak
@@ -27,3 +27,6 @@ Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ik
 6. Ikasle eta irakasleen datu pribatuak kudeatzen diren prozesuetan, pribazitate eta segurtasun betebehar batzuk ezarri
 7. Erakundearentzako kritikoak diren zerbitzuak identifikatu
 8. **Arriskuen kudeaketa** egiten da, beti ere etengabeko hobekuntza ikuspegiarekin
+
+## Baliabideak
+- [RACI Erantzunkizunen matrizea](RACI-matrizea)
