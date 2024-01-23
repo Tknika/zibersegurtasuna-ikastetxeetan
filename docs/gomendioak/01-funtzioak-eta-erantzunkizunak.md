@@ -29,4 +29,4 @@ Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ik
 8. **Arriskuen kudeaketa** egiten da, beti ere etengabeko hobekuntza ikuspegiarekin
 
 ## Baliabideak
-- [RACI Erantzunkizunen matrizea](RACI-matrizea)
+- [RACI Erantzunkizunen matrizea](../../baliabideak/RACI-matrizea)

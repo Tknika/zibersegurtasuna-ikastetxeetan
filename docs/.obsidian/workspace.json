@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baliabideak/raci-matrizea.md",
+                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baliabideak/raci-matrizea.md",
+                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baliabideak/raci-matrizea.md",
+                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "baliabideak/raci-matrizea.md"
+                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99f1ded5d545eac6",
+  "active": "7c596cb8694ad334",
   "lastOpenFiles": [
-    "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
     "baliabideak/raci-matrizea.md",
+    "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+    "docs/baliabideak/RACI-matrizea.md",
+    "docs/baliabideak",
+    "docs",
     "baliabideak/txantiloiak.md",
     "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
     "gomendioak/02-aktiboen-kudeaketa.md",
