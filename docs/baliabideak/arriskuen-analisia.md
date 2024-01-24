@@ -11,6 +11,6 @@ Eranskin honen bidez, arriskuen analisia egingo dugu hiru pausotan:
 
 
 **Deskargatu txantiloia**. Aukeratu formatua:
-- [docx](/fitxategiak/1_Eranskina_Arriskuen_analisia.docx)
-- [odt](/fitxategiak/1_Eranskina_Arriskuen_analisia.docx)
-- [pdf](/fitxategiak/1_Eranskina_Arriskuen_analisia.pdf)
+- [docx](fitxategiak/1_Eranskina_Arriskuen_analisia.docx)
+- [odt](fitxategiak/1_Eranskina_Arriskuen_analisia.docx)
+- [pdf](fitxategiak/1_Eranskina_Arriskuen_analisia.pdf)
