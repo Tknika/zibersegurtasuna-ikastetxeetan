@@ -1,5 +1,7 @@
 ---
 sidebar_position: 7
+tags:
+  - antzeman
 ---
 
 # 7-Mehatxuen monitorizazio eta detekzioa

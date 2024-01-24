@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
 tags:
-  - gov
-  - gomendioak
+  - antolatu
 ---
 
 # 1-Gobernantza, funtzioak eta erantzunkizunak
@@ -21,7 +20,7 @@ Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ik
 ## Zein motako atazak dira?
 - Arlo honetan landu beharreko atazak **antolaketa** mailakoak dira batez ere
 
-## Gomendioak
+## Gomendio zerrenda
 1. Ikastetxeko plan estrategikoetan zibersegurtasunarekin lotutako **eginbeharrak, arduradunak eta erantzunkizunak** ondo identifikatu.
 2. Zibersegurtsuna erakunde mailan lehentasun gisa definitu eta hala komunikatu ikastetxe-barnean, eta departamentu ezberdinetan ondo ulertarazi.
 3. Azken mehatxuak ezagutzeko zaintza aktiboa egin (ikastaro eta kongresuetara joanez adibidez).

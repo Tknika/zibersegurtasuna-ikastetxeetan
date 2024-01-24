@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+tags:
+  - identifikatu
 ---
 
 # 3-Arriskuen ebaluazio eta kudeaketa

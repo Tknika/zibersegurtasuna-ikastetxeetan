@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd41bc3889fa5d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro.md",
+                "file": "gomendioak/02-aktiboen-kudeaketa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "gomendioak/02-aktiboen-kudeaketa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intro.md",
+                "file": "gomendioak/02-aktiboen-kudeaketa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intro.md"
+                "file": "gomendioak/02-aktiboen-kudeaketa.md"
               }
             }
           }
@@ -159,11 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd41bc3889fa5d16",
+  "active": "7c596cb8694ad334",
   "lastOpenFiles": [
-    "baliabideak/raci-matrizea.md",
     "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
     "gomendioak/02-aktiboen-kudeaketa.md",
+    "gomendioak/09-Berreskuratzea.md",
+    "gomendioak/08-gertaeren-kudeaketa.md",
+    "gomendioak/07-mehatxuen-monitorizazio-eta-detekzioa.md",
+    "gomendioak/06-informazioaren-segurtasuna-eta-azpiegituraren-erresilientzia.md",
+    "gomendioak/05-atzipen-kontrola-eta-identitate-kudeaketa.md",
+    "gomendioak/04-sentsibilizazioa-eta-prestakuntza.md",
+    "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
+    "intro.md",
+    "baliabideak/raci-matrizea.md",
     "baliabideak/arriskuen-analisia.md",
     "fitxategiak/1-Eranskina-Arriskuen_analisia.docx.md",
     "fitxategiak",
@@ -173,21 +168,13 @@
     "baliabideak/eranskinak/1_Eranskina_Arriskuen_analisia.pdf",
     "baliabideak/eranskinak/1_Eranskina_Arriskuen_analisia.odt",
     "baliabideak/eranskinak",
-    "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
     "docs/baliabideak/RACI-matrizea.md",
     "docs/baliabideak",
     "docs",
     "baliabideak/txantiloiak.md",
-    "intro.md",
     "baliabideak/_category_.json",
     "praktika-onak/phishing-simulazioa.md",
     "baliabideak",
-    "praktika-onak/saioak-isteko-kanpaina.md",
-    "gomendioak/09-Berreskuratzea.md",
-    "gomendioak/08-gertaeren-kudeaketa.md",
-    "gomendioak/07-mehatxuen-monitorizazio-eta-detekzioa.md",
-    "gomendioak/06-informazioaren-segurtasuna-eta-azpiegituraren-erresilientzia.md",
-    "gomendioak/05-atzipen-kontrola-eta-identitate-kudeaketa.md",
-    "gomendioak/04-sentsibilizazioa-eta-prestakuntza.md"
+    "praktika-onak/saioak-isteko-kanpaina.md"
   ]
 }

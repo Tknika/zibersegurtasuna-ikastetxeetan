@@ -1,18 +1,41 @@
 ---
 sidebar_position: 2
+tags:
+  - identifikatu
 ---
 
 # 2-Aktiboen kudeaketa
 
 Ikastetxeko aktiboak identifikatzea, antolatzea eta kudeatzea ezinbestekoa da.
 
-Aktiboen inbentario eguneratuak, erabat osatuak. Modu efizienteak kudeatuak, datuak analizatzeko aukerak eskeintzen dituenak.
+## Zergaitik da garrantzitsua?
+
+- Identifikazio eta antolaketa zehatzak ikastetxeak dituen aktibo guztien ikuspegi bat eskeiniko digu bere osotasunean. Era berean, segurtasun maila ezberdinak ezarri ahal izango ditugu, aktibo bakoitzaren garrantziaren arabera.
+- Identifikazio egokiak eguneraketen kudeaketa egokia egiten eta ahultasunak garaiz konpontzen lagunduko digute.
+- Eguneroko operatiba modu eraginkorrean egitea erreztuko digu.
+
+## Zein motako atazak dira?
+
+- **Antolaketa** mailakoak, baita **teknologikoak** ere
+
+## Gomendio zerrenda
+
+- Aktiboen inbentarioa egunean eramatea komeni da eta ahalik eta osatuena. Modu efizientean kudeatuak (automatizatua), datuak analizatzeko aukerak eskeintzen dituenak.
 	- Hardware inbentarioa
 	- Software inbentarioa
 	- Sareko topologia diagrama ondo dokumentatuta
 	- Zerbitzuen inbentarioa
 	- Erabiltzaileen inbentarioa
 - Aktiboetan lehentasuna ezarri: aktibo mota, kritizitate, baliabide eta inpaktuak kontutan hartuta
-- Aktibo hauei betebehar batzuk ezarri (compliance) eta hauen betetzea ziurtatu
-- Aktiboetan dauden akatsak bilatu eta dokumentatu (arrisku kudeaketa)
-- Kontrol neurriak ezarri ezagutzen ez ditugun aktiboak ez izateko (software instalazioak, bestelako gailuak). Noizean behin kontrol neurri hauek probatan jartzen ditugu.
+- Aktibo hauei betebehar minimo batzuk ezarri eta hauen betetzea ziurtatu
+- Aktiboetan dauden ahultasunak bilatu eta dokumentatu (arrisku kudeaketa)
+- Kontrol neurriak ezarri ezagutzen ez ditugun aktiboak ez izateko (software instalazioak, bestelako gailuak). Noizean behin kontrol neurri hauek saihesten saiatu.
+
+## Baliabideak
+
+### Tresnak
+- [GLPI](https://glpi-project.org/): Hardware/Software inbentario automatizatuak egiteko tresna librea (soft. librea).
+- [LibreNMS](https://www.librenms.org/): sareko gailuak inbentariatzeko eta monitorizatzeko tresna (soft. librea).
+- [Observium](https://www.observium.org/): sareko gailuak inbentariatzeko eta monitorizatzeko tresna (soft. librea).
+- [NetBox](https://netbox.dev/): sareko konfigurazioa (IP tartea, konexioak, etab) inbentariatzeko tresna (soft. librea).
+- [Microsoft Intune](https://www.microsoft.com/es-es/security/business/microsoft-intune): gailu guztien inbentario eta kudeaketa aurreratua egiteko tresna (ordainezkoa).

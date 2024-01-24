@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+tags:
+  - babestu
 ---
 
 # 4-Sentsibilizazioa eta prestakuntza

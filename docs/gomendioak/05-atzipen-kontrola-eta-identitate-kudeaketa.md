@@ -1,5 +1,7 @@
 ---
 sidebar_position: 5
+tags:
+  - babestu
 ---
 
 # 5-Atzipen kontrola eta identitate kudeaketa
