@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gomendioak/02-aktiboen-kudeaketa.md",
+                "file": "baliabideak/arriskuen-analisia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gomendioak/02-aktiboen-kudeaketa.md",
+                "file": "baliabideak/arriskuen-analisia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gomendioak/02-aktiboen-kudeaketa.md",
+                "file": "baliabideak/arriskuen-analisia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gomendioak/02-aktiboen-kudeaketa.md"
+                "file": "baliabideak/arriskuen-analisia.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "7c596cb8694ad334",
   "lastOpenFiles": [
+    "gomendioak/03-arriskuen-analisia-eta-kudeaketa.md",
+    "baliabideak/arriskuen-analisia.md",
     "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
     "gomendioak/02-aktiboen-kudeaketa.md",
     "gomendioak/09-Berreskuratzea.md",
@@ -156,10 +158,8 @@
     "gomendioak/06-informazioaren-segurtasuna-eta-azpiegituraren-erresilientzia.md",
     "gomendioak/05-atzipen-kontrola-eta-identitate-kudeaketa.md",
     "gomendioak/04-sentsibilizazioa-eta-prestakuntza.md",
-    "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
     "intro.md",
     "baliabideak/raci-matrizea.md",
-    "baliabideak/arriskuen-analisia.md",
     "fitxategiak/1-Eranskina-Arriskuen_analisia.docx.md",
     "fitxategiak",
     "eranskinak/1-Eranskina-Arriskuen_analisia.docx.md",

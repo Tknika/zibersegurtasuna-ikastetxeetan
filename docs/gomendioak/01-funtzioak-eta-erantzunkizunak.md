@@ -13,14 +13,17 @@ Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ik
 :::
 
 ## Zergaitik da garrantzitsua?
+
 - Antolaketa **estruktura argi bat** izatea ezinbestekoa da, pertsona bakoitzak zer egin behar duen jakiteko eta horretarako gaitasunak lantzeko.
 - Honek, era berean, bermatuko digu **hutsunerik egon ez dadila** segurtasun-estalduran.
 - Erakundean ezarriko diren politika eta prozesuak, etengabeko hobekuntzaren ikuspegiarekin, lagunduko digute segurtasun **gertakizunei** modu eraginkorrean **erantzuten**
 
-## Zein motako atazak dira?
+## Zein motako atazak hartzen ditu barne?
+
 - Arlo honetan landu beharreko atazak **antolaketa** mailakoak dira batez ere
 
 ## Gomendio zerrenda
+
 1. Ikastetxeko plan estrategikoetan zibersegurtasunarekin lotutako **eginbeharrak, arduradunak eta erantzunkizunak** ondo identifikatu.
 2. Zibersegurtsuna erakunde mailan lehentasun gisa definitu eta hala komunikatu ikastetxe-barnean, eta departamentu ezberdinetan ondo ulertarazi.
 3. Azken mehatxuak ezagutzeko zaintza aktiboa egin (ikastaro eta kongresuetara joanez adibidez).

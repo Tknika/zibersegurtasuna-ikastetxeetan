@@ -14,22 +14,23 @@ Ikastetxeko aktiboak identifikatzea, antolatzea eta kudeatzea ezinbestekoa da.
 - Identifikazio egokiak eguneraketen kudeaketa egokia egiten eta ahultasunak garaiz konpontzen lagunduko digute.
 - Eguneroko operatiba modu eraginkorrean egitea erreztuko digu.
 
-## Zein motako atazak dira?
+## Zein motako atazak hartzen ditu barne?
 
-- **Antolaketa** mailakoak, baita **teknologikoak** ere
+- **Antolaketa** mailakoak
+- Soluzio **teknikoen** ezarpena
 
 ## Gomendio zerrenda
 
-- Aktiboen inbentarioa egunean eramatea komeni da eta ahalik eta osatuena. Modu efizientean kudeatuak (automatizatua), datuak analizatzeko aukerak eskeintzen dituenak.
+1. Aktiboen **inbentarioa** egunean eramatea komeni da eta **ahalik eta osatuena**. Modu efizientean kudeatua (automatizatua), datuak analizatzeko aukerak eskeintzen dituenak.
 	- Hardware inbentarioa
 	- Software inbentarioa
 	- Sareko topologia diagrama ondo dokumentatuta
 	- Zerbitzuen inbentarioa
 	- Erabiltzaileen inbentarioa
-- Aktiboetan lehentasuna ezarri: aktibo mota, kritizitate, baliabide eta inpaktuak kontutan hartuta
-- Aktibo hauei betebehar minimo batzuk ezarri eta hauen betetzea ziurtatu
-- Aktiboetan dauden ahultasunak bilatu eta dokumentatu (arrisku kudeaketa)
-- Kontrol neurriak ezarri ezagutzen ez ditugun aktiboak ez izateko (software instalazioak, bestelako gailuak). Noizean behin kontrol neurri hauek saihesten saiatu.
+2. Aktiboetan **lehentasuna ezarri**: aktibo mota, kritizitate, baliabide eta inpaktuak kontutan hartuta
+3. Aktibo hauei **betebehar minimo batzuk** ezarri eta hauen betetzea ziurtatu
+4. Aktiboetan dauden **ahultasunak bilatu** eta dokumentatu (arrisku kudeaketa)
+5. Kontrol neurriak ezarri ezagutzen ez ditugun aktiboak ez izateko (software instalazioak, bestelako gailuak). Noizean behin kontrol neurri hauek saihesten saiatu.
 
 ## Baliabideak
 
