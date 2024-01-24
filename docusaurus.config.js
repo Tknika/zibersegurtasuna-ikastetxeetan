@@ -69,7 +69,7 @@ const config = {
       navbar: {
         title: 'Zibersegurtasuna ikastetxeetan',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Zibersegurtasuna ikastetxeetan',
           src: 'img/logo.svg',
         },
         items: [
@@ -79,37 +79,16 @@ const config = {
             position: 'left',
             label: 'Gida',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/tknika/zibersegurtasuna-ikastetxeetan',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Gida',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Gehiago',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/tknika/zibersegurtasun-gida',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} FPEuskadi. Docusaurus erabiliz sortua.`,
+        logo: {
+          alt: 'Tknika',
+          src: 'img/logo-tknika.png',
+          href: 'https://tknika.eus/',
+        },
+        copyright: `Copyright © ${new Date().getFullYear()} FPEuskadi`,
       },
       prism: {
         theme: prismThemes.github,
