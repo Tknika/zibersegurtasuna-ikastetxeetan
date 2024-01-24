@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4121],{8070:e=>{e.exports=JSON.parse('[{"label":"gov","permalink":"/zibersegurtasuna-ikastetxeetan/docs/tags/gov","count":1},{"label":"gomendioak","permalink":"/zibersegurtasuna-ikastetxeetan/docs/tags/gomendioak","count":1}]')}}]);
