@@ -1,5 +1,8 @@
 ---
 sidebar_position: 1
+tags:
+  - gov
+  - gomendioak
 ---
 
 # 1-Gobernantza, funtzioak eta erantzunkizunak
