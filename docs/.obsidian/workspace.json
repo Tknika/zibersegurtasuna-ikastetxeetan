@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baliabideak/raci-matrizea.md",
+                "file": "intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baliabideak/raci-matrizea.md",
+                "file": "intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baliabideak/raci-matrizea.md",
+                "file": "intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "baliabideak/raci-matrizea.md"
+                "file": "intro.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "cd41bc3889fa5d16",
   "lastOpenFiles": [
+    "baliabideak/raci-matrizea.md",
     "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
     "gomendioak/02-aktiboen-kudeaketa.md",
     "baliabideak/arriskuen-analisia.md",
@@ -173,7 +174,6 @@
     "baliabideak/eranskinak/1_Eranskina_Arriskuen_analisia.odt",
     "baliabideak/eranskinak",
     "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
-    "baliabideak/raci-matrizea.md",
     "docs/baliabideak/RACI-matrizea.md",
     "docs/baliabideak",
     "docs",
