@@ -13,9 +13,17 @@ RACI **erantzunkizunen esleipenen matrizea** proiektu kudeaketetan erabiltzen da
 | **I** | *Informed* | Hartutako erabakiez informatzen zaio.<br /><br />Egin beharreko lanaren inguruko aurrerapen eta emaitzen inguruan informatzen zaio (norabide bakarreko komunikazioa). |
 
 
-## Adibidea
+## Ikastetxeko zibersegurtasun erantzunkizunen RACI matrizea (adibidea)
 
-egiteke
+|  | Zuzendaritza | Eraldi taldea | Azpi. digitalen ard. |
+| ---- | ---- | ---- | ---- |
+| Aktiboen inbentarioa |  |  | A/R |
+| Arriskuen analisia | A | R | C |
+| Sentsibilizazio eta prestakuntza plana |  | A/R | C |
+| ... |  |  |  |
+| IKT jarraitasun plana | I | C | A |
+| Berreskuratze prozedurak |  |  | A/R |
+| Zerbitzuen badaezpadako etetea | A | C |  |
 
 ## Erreferentziak
 

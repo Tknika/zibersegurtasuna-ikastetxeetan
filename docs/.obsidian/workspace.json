@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+                "file": "baliabideak/raci-matrizea.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+                "file": "baliabideak/raci-matrizea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+                "file": "baliabideak/raci-matrizea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md"
+                "file": "baliabideak/raci-matrizea.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "cd41bc3889fa5d16",
   "lastOpenFiles": [
-    "gomendioak/02-aktiboen-kudeaketa.md",
     "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+    "gomendioak/02-aktiboen-kudeaketa.md",
     "baliabideak/arriskuen-analisia.md",
     "fitxategiak/1-Eranskina-Arriskuen_analisia.docx.md",
     "fitxategiak",
