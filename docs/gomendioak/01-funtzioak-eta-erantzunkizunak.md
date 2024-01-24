@@ -32,7 +32,8 @@ Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ik
 8. **Arriskuen kudeaketa** egiten da, beti ere etengabeko hobekuntza ikuspegiarekin
 
 ## Baliabideak
-- [RACI Erantzunkizunen matrizea](../../baliabideak/RACI-matrizea)
+- [Txantiloia: RACI Erantzunkizunen matrizea](../../baliabideak/RACI-matrizea)
 
-## Erreferentziak
-[- Guía para centros educativos (AEPD)](https://www.aepd.es/documento/guia-centros-educativos.pdf)
+## Loturak
+- [Guía para centros educativos (AEPD)](https://www.aepd.es/documento/guia-centros-educativos.pdf)
+- [Pautas de protección de datos para los centros educativos (APDCAT)](https://apdcat.gencat.cat/web/.content/04-actualitat/menors-i-joves/documents/GUIA-PAUTAS-DE-PROTECCION-DE-DATOS-PARA-CENTROS-EDUCATIVOS.pdf)

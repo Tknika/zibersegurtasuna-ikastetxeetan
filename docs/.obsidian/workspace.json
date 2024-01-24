@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd41bc3889fa5d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,16 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c596cb8694ad334",
+  "active": "cd41bc3889fa5d16",
   "lastOpenFiles": [
-    "baliabideak/raci-matrizea.md",
+    "gomendioak/02-aktiboen-kudeaketa.md",
     "gomendioak/01-funtzioak-eta-erantzunkizunak.md",
+    "baliabideak/arriskuen-analisia.md",
+    "fitxategiak/1-Eranskina-Arriskuen_analisia.docx.md",
+    "fitxategiak",
+    "eranskinak/1-Eranskina-Arriskuen_analisia.docx.md",
+    "eranskinak",
+    "baliabideak/eranskinak/1_Eranskina_Arriskuen_analisia.docx",
+    "baliabideak/eranskinak/1_Eranskina_Arriskuen_analisia.pdf",
+    "baliabideak/eranskinak/1_Eranskina_Arriskuen_analisia.odt",
+    "baliabideak/eranskinak",
+    "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
+    "baliabideak/raci-matrizea.md",
     "docs/baliabideak/RACI-matrizea.md",
     "docs/baliabideak",
     "docs",
     "baliabideak/txantiloiak.md",
-    "gomendioak/03-arriskuen-ebaluazio-eta-kudeaketa.md",
-    "gomendioak/02-aktiboen-kudeaketa.md",
     "intro.md",
     "baliabideak/_category_.json",
     "praktika-onak/phishing-simulazioa.md",
