@@ -9,7 +9,7 @@ tags:
 Ikastetxeak antolakuntza mailan erabaki batzuk hartu beharko ditu; besteak beste ezinbestekoa da arduradun egokiak aukeratzea eta prozesu batzuk martxan ipintzea.
 
 :::warning[Gogoratu]
-Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ikastetxeak **betebehar legal batzuk** ere baditu. 
+Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ikastetxeak **betebehar legal batzuk** ere baditu (bereziki, [RGPD/GDPR](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=celex%3A32016R0679) eta [LOPDGDD](https://boe.es/boe/dias/2018/12/06/pdfs/BOE-A-2018-16673.pdf)). 
 :::
 
 ## Zergaitik da garrantzitsua?
@@ -37,5 +37,5 @@ Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ik
 - [Txantiloia: RACI Erantzunkizunen matrizea](../../baliabideak/RACI-matrizea)
 
 ## Loturak
-- [Guía para centros educativos (AEPD)](https://www.aepd.es/documento/guia-centros-educativos.pdf)
+- [Tratamiento de datos. Guía para centros educativos (AEPD)](https://www.aepd.es/documento/guia-centros-educativos.pdf)
 - [Pautas de protección de datos para los centros educativos (APDCAT)](https://apdcat.gencat.cat/web/.content/04-actualitat/menors-i-joves/documents/GUIA-PAUTAS-DE-PROTECCION-DE-DATOS-PARA-CENTROS-EDUCATIVOS.pdf)
