@@ -11,7 +11,7 @@ Mehatxuak ekiditeko, arriskuak modu proaktiboan aztertu eta kudeatu beharko ditu
 ## Zergaitik da garrantzitsua?
 
 - Azterketa honi esker, **erabakiak hartzeko** beharrezko **informazioa** izango dugu
-- Lehentasunak finkatuz, **arrisku larrienak** arintzeko ekintzak martxan ipintzea posible izango da
+- Arriskuak identifikatuz eta lehentasunak finkatuz, ahal bezain azkarren **arrisku larrienak** arintzeko ekintzak martxan ipintzea posible izango da
 - Arriskuak aldez aurretik identifikatuz, **aldez aurreko babes-neurriak** ezartzeko aukera izango dugu
 
 ## Zein motako atazak hartzen ditu barne?
