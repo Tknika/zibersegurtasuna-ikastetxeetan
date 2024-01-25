@@ -68,10 +68,10 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Zibersegurtasuna ikastetxeetan',
-        logo: {
-          alt: 'Zibersegurtasuna ikastetxeetan',
-          src: 'img/logo.svg',
-        },
+        //logo: {
+        //  alt: 'Zibersegurtasuna ikastetxeetan',
+        //  src: 'img/logo.svg',
+        //},
         items: [
           {
             type: 'docSidebar',
