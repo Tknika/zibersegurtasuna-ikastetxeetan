@@ -24,7 +24,7 @@ Mehatxuak ekiditeko, arriskuak modu proaktiboan aztertu eta kudeatu beharko ditu
 1. **Arriskuen kudeaketa estrategia** bat ezarri, kudeaketa proaktiboa izan dadin. Beti ere etengabeko hobekuntza helburu.
 2. Arriskuekin zer ikusia duten prozesuak definitu: **mehatxuen detekzioa**, **ahultasun** edo baldintza kaxkarren **detekzioa**.
 3. Arriskuen lehentasunak, ondorioak, tolerantziak eta arriskuen asumitzeak ere kudeatu.
-4. Segurtasun ahultasunak (*vulnerabilities*) identifikatu eta gutxitzeko (*mitigate*) prozesuak ezarri eta bete. Baita ere mehatxuak minimizatzeko ere.
+4. Segurtasun mehatxuak eta ahultasunak identifikatu eta minimizatzeko hobekuntza neurriak planifikatu eta bete. 
 5. Noizbehinka segurtasun audiotoriak pasatzea gomendagarria da, kanpo enpresa-eragile baten eskutik
 6. Segurtasun kopia prozesua eta berreskuratze prozesua behar bezala dokumentatuak izan.
 7. Mehatxuez jabetzeko ekintzak: foroak, ikastaroak, etab.
