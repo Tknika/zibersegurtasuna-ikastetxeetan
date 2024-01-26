@@ -36,5 +36,5 @@ Mehatxuak ekiditeko, arriskuak modu proaktiboan aztertu eta kudeatu beharko ditu
 
 ## Loturak
 
+- [Análisis de riesgos en 6 pasos (Incibe)](https://www.incibe.es/empresas/blog/analisis-riesgos-pasos-sencillo)
 - [Guía de Gestión de riesgos (Incibe)](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ciberseguridad_gestion_riesgos_metad.pdf)
-- 

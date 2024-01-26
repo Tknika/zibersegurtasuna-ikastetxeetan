@@ -1,7 +1,7 @@
 
 ## Mehatxuen zerrenda (Margerit)
 
-Hurrengo mehatxuen zerrenda hau Margerit metodologiako elementuen bildumatik atera dugu.
+Hurrengo mehatxuen zerrenda hau [Margerit metodologiako elementuen bildumatik](https://pilar.ccn-cert.cni.es/index.php/docman/documentos/2-magerit-v3-libro-ii-catalogo-de-elementos/file) atera dugu.
 
 Helburu bikoitzarekin:
 - Arriskuen analisi eta kudeaketa prozesua erreztea
