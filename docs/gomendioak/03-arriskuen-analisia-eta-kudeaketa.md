@@ -32,3 +32,9 @@ Mehatxuak ekiditeko, arriskuak modu proaktiboan aztertu eta kudeatu beharko ditu
 ## Baliabideak
 
 - [Txantiloia: arriskuen analisia](../../baliabideak/arriskuen-analisia)
+- [Mehatxuen bilduma (Margerit)](../../baliabideak/margerit-mehatxuen-bilduma)
+
+## Loturak
+
+- [Guía de Gestión de riesgos (Incibe)](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ciberseguridad_gestion_riesgos_metad.pdf)
+- 
