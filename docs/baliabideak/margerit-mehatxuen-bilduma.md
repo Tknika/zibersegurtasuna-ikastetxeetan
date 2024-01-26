@@ -8,7 +8,7 @@ Helburu bikoitzarekin:
 - Antzeko terminologia eta irizpideak elkarbanatzea
 
 :::info[Lasai!]
-Honako hau aurkitu dugun arriskuen zerrenda ahalik eta osatuena da. Badakigu mehatxu guztiak ez direla kontutan hartzekoak ikastetxeen esparruan arriskuen analisia egiterakoan.
+Honako hau aurkitu dugun arriskuen zerrenda ahalik eta osatuena da. Badakigu mehatxu guztiak ez direla kontutan hartzekoak ikastetxeen esparruan arriskuen analisia egiterakoan. Aztertu soilik beharrezkoak ikusten dituzuenak.
 :::
 
 ## Amenazas
