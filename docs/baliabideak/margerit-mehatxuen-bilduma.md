@@ -1,5 +1,5 @@
 
-## Mehatxuen zerrenda (Margerit)
+# Mehatxuen zerrenda (Margerit)
 
 Hurrengo mehatxuen zerrenda hau [Margerit metodologiako elementuen bildumatik](https://pilar.ccn-cert.cni.es/index.php/docman/documentos/2-magerit-v3-libro-ii-catalogo-de-elementos/file) atera dugu.
 
