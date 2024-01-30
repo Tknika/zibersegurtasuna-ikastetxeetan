@@ -22,6 +22,7 @@ Datuera eta baliabidetara atzitzeko segurtasun sistema aproposak ezarri behar di
 ## Gomendio zerrenda
 
 1. Atzipen kontrolerako politikak eta prozedurak diseinatu eta ezarri
-2. Autentikazio sistema bateratua
+2. Autentikazio sistema bateratua izan.
 3. Ezarri erabiltzaileentzako pasahitz sendoak  eta baldintza anitzeko autentikazioa.
 4. Esleitu erabiltzaileei soilik behar dituzten baimenak, ez gehiago. Horretarako rolak erabili, baimenak eta erabiltzaileen eginkizunak lotzeko.
+5. Kudeatu atzipen fisikoa, bereziki kritikoak diren gailuen kasuan (adibidez zerbitzari gela)
