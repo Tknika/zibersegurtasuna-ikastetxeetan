@@ -10,11 +10,18 @@ Datuera eta baliabidetara atzitzeko segurtasun sistema aproposak ezarri behar di
 
 ## Zergaitik da garrantzitsua?
 
+- Ikastetxeko sistema eta datuetara soilik baimendutako erabiltzaileak sar daitezen bermatuko digu
+- Zeharka, datuen konfidentzialtasuna babesten lagunduko digu
+- Gertatutakoa auditatzeko aukera izango dugu
+
 ## Zein motako atazak hartzen ditu barne?
+
+- **Antolaketa** mailakoak
+- Soluzio **teknikoen** ezarpena
 
 ## Gomendio zerrenda
 
-1. Atzipen kontroleko prozesuak ezarri eta dokumentatu.
-2. Sarearen osotasuna
-3. Kontuak errebisatzeko prozesuak
-4. Erabiltzaileen baimenak ezartzeko baldintzak dokumentatuak.
+1. Atzipen kontrolerako politikak eta prozedurak diseinatu eta ezarri
+2. Autentikazio sistema bateratua
+3. Ezarri erabiltzaileentzako pasahitz sendoak  eta baldintza anitzeko autentikazioa.
+4. Esleitu erabiltzaileei soilik behar dituzten baimenak, ez gehiago. Horretarako rolak erabili, baimenak eta erabiltzaileen eginkizunak lotzeko.
