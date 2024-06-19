@@ -20,6 +20,6 @@ Informazioaren konfidentzialtasuna, integritatea eta eskuragarritasuna bermatu b
 ## Gomendio zerrenda
 
 1. Datuen konfidentzialtasuna, osotasuna eta erabilgarritasuna babestu
-2. Babes-kopiak egin, babestu, kudeatu eta probatu
-3. Babestu sareak baimendu gabeko sarreretatik
-4. Zerbitzu kritikoen etetea ez gertatzeko, jarri beharrezko baliabide eta mekanismoak martxan  
+2. Babes-kopiak egin, babestu, kudeatu eta probatu. Segurtasun kopiak leku fisiko ezberdinetan izan, jatorrizko datuak dauden gunean larrialdi bat geratuz gero (sute bat adibidez), kopiak ere ez erretzeko. Backupak online dauden kasuetan, atzipena babestu, balizko malware batek backupak hondatzeko aukerarik izan ez dezan.
+3. Babestu sareak baimendu gabeko sarreretatik. Azpisare edo VLAN ezberdinen arteko trafikoa Firewall-ean mugatu.
+4. Zerbitzu kritikoen etetea ez gertatzeko, jarri beharrezko baliabide eta mekanismoak martxan.
