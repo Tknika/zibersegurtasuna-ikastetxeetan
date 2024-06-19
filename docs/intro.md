@@ -18,7 +18,7 @@ Gida hau Digitaldeak garatu du, [Tknika](https://tknika.eus)ren gidaritzapean, h
 - [Armeria Eskola LHII](https://armeriaeskola.eus/)
 - [Construcción Bizkaia LHII](https://www.construccionbizkaia.com/)
 - [Fadura LHII](https://www.fadura.eus/)
-- [IMH LHII](https://www.imh.eu)
+- [IMH LHII](https://www.imh.eus)
 - [MEKA LHII](https://meka-elgoibar.hezkuntza.net)
 - [Náutica Bermeo LHII](https://www.nautikaeskola.com/)
 - [EASO LHII](https://www.ikaslangipuzkoa.eus/es/centros/CIFP-politecnico-easo)
