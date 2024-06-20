@@ -14,6 +14,7 @@ Gida hau Digitaldeak garatu du, [Tknika](https://tknika.eus)ren gidaritzapean, h
 
 ### Ikastetxe parte-hartzaileak
 
+- [Plaiaundi LHII](https://plaiaundi.hezkuntza.net/)
 - [Andra Mari LHII](https://fpandramari.eus/)
 - [Armeria Eskola LHII](https://armeriaeskola.eus/)
 - [Construcción Bizkaia LHII](https://www.construccionbizkaia.com/)
