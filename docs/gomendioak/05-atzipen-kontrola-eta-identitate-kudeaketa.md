@@ -11,6 +11,7 @@ Datuera eta baliabidetara atzitzeko segurtasun sistema aproposak ezarri behar di
 ## Zergaitik da garrantzitsua?
 
 - Ikastetxeko sistema eta datuetara soilik baimendutako erabiltzaileak sar daitezen bermatuko digu
+- Ziber-eraso baten aurrean, bere hedapena murrizten lagunduko digu
 - Zeharka, datuen konfidentzialtasuna babesten lagunduko digu
 - Gertatutakoa auditatzeko aukera izango dugu
 
@@ -25,4 +26,5 @@ Datuera eta baliabidetara atzitzeko segurtasun sistema aproposak ezarri behar di
 2. Autentikazio sistema bateratua izan.
 3. Ezarri erabiltzaileentzako pasahitz sendoak  eta baldintza anitzeko autentikazioa.
 4. Esleitu erabiltzaileei soilik behar dituzten baimenak, ez gehiago. Horretarako rolak erabili, baimenak eta erabiltzaileen eginkizunak lotzeko.
-5. Kudeatu atzipen fisikoa, bereziki kritikoak diren gailuen kasuan (adibidez zerbitzari gela)
+5. Sahiestu erabiltzaileek beraien ordenagailuetan administratzaile baimenak izatea. 
+6. Kudeatu atzipen fisikoa, bereziki kritikoak diren gailuen kasuan (adibidez zerbitzari gela)

@@ -26,7 +26,7 @@ Zibersegurtasun mehatxuei ahalik eta modu eraginkorrenean aurre egiteaz gain, ik
 
 1. Ikastetxeko plan estrategikoetan zibersegurtasunarekin lotutako **eginbeharrak, arduradunak eta erantzunkizunak** ondo identifikatu.
 2. Zibersegurtsuna erakunde mailan lehentasun gisa definitu eta hala komunikatu ikastetxe-barnean, eta departamentu ezberdinetan ondo ulertarazi.
-3. Azken mehatxuak ezagutzeko zaintza aktiboa egin (ikastaro eta kongresuetara joanez adibidez).
+3. Azken mehatxuak ezagutzeko zaintza aktiboa egin. Gomendagarria izaten da zibersegurtasuneko alerta azkarrak argitaratzen diren kanaletan harpidetuta egotea (newsletter, telegram, ...), eta ikastaro eta kongresuetara joatea.
 4. Hirugarrengo hornitzaileekin datu trukaketak badira, behar bezala **formalizatu akordioak** eta baldintzak
 5. Zibersegurtasunarekin erlazionatutako arau eta **betebehar legalak** betetzeko akzioak planteatu
 6. Ikasle eta irakasleen datu pribatuak kudeatzen diren prozesuetan, pribazitate eta segurtasun betebehar batzuk ezarri

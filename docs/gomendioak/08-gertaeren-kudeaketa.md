@@ -11,10 +11,11 @@ Segurtasun intzidentzien aurrean, erantzun egokia eta koordinatua eskeintzeko ne
 
 ## Zergaitik da garrantzitsua?
 
-- Gertaeren aurrean hartu beharreko babes-neurriak modu inprobisatuan ez hartzeko garrantzitsua da aldez aurretik haunarketa bat egitea eta dokumentatzea
+- Gertaeren aurrean hartu beharreko babes-neurriak modu inprobisatuan ez hartzeko garrantzitsua da aldez aurretik hausnarketa bat egitea eta dokumentatzea
 
 ## Zein motako atazak hartzen ditu barne?
 
+- **Antolaketa** mailakoak
 
 ## Gomendio zerrenda
 

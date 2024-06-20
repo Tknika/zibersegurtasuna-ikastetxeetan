@@ -31,6 +31,9 @@ Ikastetxeko aktiboak identifikatzea, antolatzea eta kudeatzea ezinbestekoa da.
 3. Aktibo hauei **betebehar minimo batzuk** ezarri eta hauen betetzea ziurtatu
 4. Aktiboetan dauden **ahultasunak bilatu** eta dokumentatu (arrisku kudeaketa)
 5. Kontrol neurriak ezarri ezagutzen ez ditugun aktiboak ez izateko (software instalazioak, bestelako gailuak). Noizean behin kontrol neurri hauek saihesten saiatu.
+6. Aktiboetan gerta daitezkeen **arazoak aurreikusi**, adibidez:
+	- Zerbitzariaren diskoaren okupazioa monitorizatu eta aurrez definitutako maila batera heltzen denean, alertak bidali
+	- Zerbitzuen eskuragarritasuna monitorizatu (wifi antenak, web zerbitzuak, ....), eta arazoak hasieratik identifikatu, arazo larriak bihurtu aurretik
 
 ## Baliabideak
 
